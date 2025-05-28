@@ -22,7 +22,7 @@ This repository contains 9 AI lab experiments from the Intelligent Systems I cou
    _Implemented heuristic-based pathfinding using the Best-First Search algorithm._
 
 5. **Exp 5 – Prolog Programming**  
-   _Defined facts, rules, and queries in Prolog for knowledge representation and inference._
+   _Defined facts, rules, and queries in Prolog for knowledge representation and inference.[NOTE: Run in suitable environment]_
 
 6. **Exp 6 – A* Search Algorithm**  
    _Solved an informed search problem using A* algorithm and compared it with Best-First Search._
