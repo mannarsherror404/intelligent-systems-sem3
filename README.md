@@ -2,7 +2,7 @@
 
 This repository contains 9 AI lab experiments from the Intelligent Systems I course at NMIMS (Semester III). These labs explore key concepts in artificial intelligence using Python.
 
-> ✅ _All experiments were performed in **Google Colab**. I will be uploading both the **PDF print** of the notebook and the corresponding **Python `.py` file** for each experiment._
+> ✅ _All experiments were performed in **Google Colab**. I will be uploading the notebook's **PDF print** and the corresponding **Python `.py` file** for each experiment._
 
 ---
 
